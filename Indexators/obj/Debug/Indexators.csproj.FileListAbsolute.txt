@@ -1,0 +1,5 @@
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\FailSoftArray\Indexators\bin\Debug\Indexators.exe.config
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\FailSoftArray\Indexators\bin\Debug\Indexators.exe
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\FailSoftArray\Indexators\bin\Debug\Indexators.pdb
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\FailSoftArray\Indexators\obj\Debug\Indexators.exe
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\FailSoftArray\Indexators\obj\Debug\Indexators.pdb
